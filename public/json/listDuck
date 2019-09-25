@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "msg": "request success",
+  "data": [
+    {
+      "id": "1",
+      "name": "北京烤鸭",
+      "info": "香香脆脆",
+      "price": "15/只",
+      "flag": true
+    },
+
+    {
+      "id": "2",
+      "name": "王思聪烤鸭",
+      "info": "吃了涨智商",
+      "price": "100/只",
+      "flag": false
+    },
+
+    {
+      "id": "3",
+      "name": "南京板鸭",
+      "info": "五香干辣",
+      "price": "80/只",
+      "flag": true
+    },
+
+    {
+      "id": "4",
+      "name": "绝味鸭脖",
+      "info": "掌中宝，鸭腿肉",
+      "price": "50/只",
+      "flag": false
+    }
+  ]
+}
